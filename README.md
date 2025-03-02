@@ -10,7 +10,7 @@
 <!-- Fun Programmer GIF -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://octodex.github.com/images/stormtroopocat.png" width="150">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Pritam+Das....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Jyotsna+Bharti....;Nice+to+meet+you!&center=true&size=30">
     <img src="https://octodex.github.com/images/Fintechtocat.png" width="150">
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 🚀 Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 👋 I'm **Pritam**, a Computer Engineer from **India**
+- 👋 I'm **Jyotsna**, a Computer Engineer from **India**
 - 💼 Working as a **Cloud and Cyber Security Services (CCSS) -SDWAN Engineer @Tata**
 - 💻 I focus on **networking, SDWAN, security, and automation**
 - ⚡ Passionate about **DevOps** and the **MERN stack**

@@ -1,7 +1,7 @@
 <!-- Profile Views and Visitor Count -->
 <div align="center">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=er-pritamdas.er-pritamdas">
-    <img align="left" src="https://komarev.com/ghpvc/?username=er-pritamdas&label=PROFILE+VIEWS">
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=er-jyotsnabharti.er-jyotsnabharti">
+    <img align="left" src="https://komarev.com/ghpvc/?username=er-jyotsnabharti&label=PROFILE+VIEWS">
 </div>
 
 <br>
@@ -26,8 +26,8 @@
 <!-- Social Media Links -->
 <div align="center">
     <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
-    <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.hackerrank.com/er_jyotsnabharti22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://www.instagram.com/er.jyotsnabharti/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
 </div>
 
 <br>
@@ -119,17 +119,17 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-    <a href="https://github.com/er-pritamdas?tab=repositories">
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=er-pritamdas&theme=tokyonight_duo"/>
+    <a href="https://github.com/er-jyotsnabharti?tab=repositories">
+        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=er-jyotsnabharti&theme=tokyonight_duo"/>
     </a>
-    <a href="https://github.com/er-pritamdas?tab=repositories">
-        <img width=370 src="https://github-readme-stats.vercel.app/api?username=er-pritamdas&theme=github_dark&show_icons=true" />
+    <a href="https://github.com/er-jyotsnabharti?tab=repositories">
+        <img width=370 src="https://github-readme-stats.vercel.app/api?username=er-jyotsnabharti&theme=github_dark&show_icons=true" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/er-pritamdas?tab=repositories">
-        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-pritamdas&layout=compact&langs_count=10&theme=github_dark">
+    <a href="https://github.com/er-jyotsnabharti?tab=repositories">
+        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-jyotsnabharti&layout=compact&langs_count=10&theme=github_dark">
     </a>
     <a>
         <img width=200 src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
@@ -138,8 +138,8 @@
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-    <a href="https://github.com/er-pritamdas">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-pritamdas&theme=react-dark">
+    <a href="https://github.com/er-jyotsnabharti">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-jyotsnabharti&theme=react-dark">
     </a>
 </p>
 
@@ -149,20 +149,20 @@
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 
 <div align="center">
-    <a href="https://github.com/er-pritamdas/CloudMERNOps_Lab">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CloudMERNOps_Lab&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-jyotsnabharti/CloudMERNOps_Lab">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-jyotsnabharti&repo=CloudMERNOps_Lab&theme=react&border_color=61dafb&border_radius=10">
     </a>
-    <a href="https://github.com/er-pritamdas/Progress-Pulse">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Progress-Pulse&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-jyotsnabharti/Progress-Pulse">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-jyotsnabharti&repo=Progress-Pulse&theme=react&border_color=61dafb&border_radius=10">
     </a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/er-pritamdas/CSS-Cheat-Sheet">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-jyotsnabharti/CSS-Cheat-Sheet">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-jyotsnabharti&repo=CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
     </a>
-    <a href="https://github.com/er-pritamdas/Pritam-Portfolio-Website">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Pritam-Portfolio-Website&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-jyotsnabharti/Pritam-Portfolio-Website">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-jyotsnabharti&repo=Pritam-Portfolio-Website&theme=react&border_color=61dafb&border_radius=10">
     </a>
 </div>
 
@@ -172,7 +172,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
-    <a href="https://github.com/er-pritamdas">
-        <img src="https://github-profile-trophy.vercel.app/?username=er-pritamdas&theme=algolia">
+    <a href="https://github.com/er-jyotsnabharti">
+        <img src="https://github-profile-trophy.vercel.app/?username=er-jyotsnabharti&theme=algolia">
     </a>
 </p>

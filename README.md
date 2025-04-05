@@ -25,7 +25,7 @@
 
 <!-- Social Media Links -->
 <div align="center">
-    <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/jyotsna-bharti-49915b284 title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/er_jyotsnabharti22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://www.instagram.com/er.jyotsnabharti/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
 </div>

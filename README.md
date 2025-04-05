@@ -36,16 +36,16 @@
 
 ## 🚀 Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 👋 I'm **Jyotsna**, a Computer Engineer from **India**
-- 💼 Working as a **Cloud and Cyber Security Services (CCSS) -SDWAN Engineer @Tata**
-- 💻 I focus on **networking, SDWAN, security, and automation**
-- ⚡ Passionate about **DevOps** and the **MERN stack**
-- 🚀 Love working with **CI/CD pipelines**
-- ☁️ Exploring **cloud-native technologies**
-- 🛠️ Automating workflows and infrastructure
-- 💡 Enjoy building full-stack apps with **MongoDB, Express, React, and Node.js**
-- 🔗 My journey blends **networking, coding, and DevOps**
-- ⚙️ Striving for **efficient and resilient systems**
+- 👋 I'm **Jyotsna Bharti**, a Computer Engineer from **India**  
+- 💼 Working as an **Automation Testing Engineer @Capgemini**  
+- 💻 I focus on **automation, testing, and quality assurance**  
+- ⚡ Passionate about **DevOps** and the **MERN stack**  
+- 🚀 Love building and optimizing **CI/CD pipelines**  
+- ☁️ Exploring the world of **cloud-native technologies**  
+- 🛠️ Automating workflows, testing, and infrastructure  
+- 💡 Enjoy building full-stack apps with **MongoDB, Express, React, and Node.js**  
+- 🔗 My journey blends **automation, coding, and DevOps**  
+- ⚙️ Striving to deliver **reliable and scalable systems**  
 - 📚 Always learning and contributing to **open-source**!
 
 ---
@@ -146,7 +146,7 @@
 ---
 
 <!-- Repositories -->
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 
 <div align="center">
     <a href="https://github.com/er-jyotsnabharti/CloudMERNOps_Lab">
@@ -164,7 +164,7 @@
     <a href="https://github.com/er-jyotsnabharti/Pritam-Portfolio-Website">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-jyotsnabharti&repo=Pritam-Portfolio-Website&theme=react&border_color=61dafb&border_radius=10">
     </a>
-</div>
+</div> -->
 
 ---
 
